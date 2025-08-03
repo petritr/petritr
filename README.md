@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Petrit  
+Senior Full-Stack Developer | PHP · Laravel · Vue.js · Python · Django
 
-<!--
-**petritr/petritr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+- 🔧 13+ years experience in web development  
+- 🔁 Backend: PHP (Laravel), Python (Django), REST APIs  
+- 💻 Frontend: Vue.js, Bootstrap, TailwindCSS, HTML/CSS/JS  
+- ⚙️ DevOps: Docker, CI/CD, Linux  
+- 📈 Passion for clean code, performance & scalability  
+
+---
+
+## 📫 Let's Connect
+- 💼 LinkedIn: [https://linkedin.com/in/petritr](https://linkedin.com/in/petrit-ramadan-692bb475)  
+- 📬 Mail: [petrit@hotmail.com](mailto:petritramadan@hotmail.com)
+
