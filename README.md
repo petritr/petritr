@@ -5,7 +5,7 @@ Senior Full-Stack Developer | PHP · Laravel · Vue.js · Python · Django
 
 ---
 
-## 🧠 About Me  
+## About Me  
 - 🔧 13+ years experience in web development  
 - 🔁 Backend: PHP (Laravel), Python (Django), REST APIs  
 - 💻 Frontend: Vue.js, Bootstrap, TailwindCSS, HTML/CSS/JS  
@@ -14,7 +14,7 @@ Senior Full-Stack Developer | PHP · Laravel · Vue.js · Python · Django
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 - 💼 LinkedIn: [https://linkedin.com/in/petritr](https://linkedin.com/in/petrit-ramadan-692bb475)  
 - 📬 Mail: [petrit@hotmail.com](mailto:petritramadan@hotmail.com)
 
